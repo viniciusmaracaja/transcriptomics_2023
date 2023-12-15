@@ -3,6 +3,8 @@ _Universidade Federal da Bahia & Instituto Gonçalo Moniz - Fiocruz Bahia_
 _Decembet 18-22, 2023 | Salvador, Bahia, Brazil_
 
 
+## Course Overview
+
 Single-cell sequencing technologies are powerful tools used to assess genomic, transcriptomic and proteomics information at the single-cell level. In recent years, the application of techniques that use single-cell sequencing have become increasingly common in several areas of research: including medicine, agriculture, and other life sciences disciplines. Single-cell sequencing may be used to study many aspects of an organism’s biology, both in health and disease, and the results of these studies contribute immensely to advancing the understanding of organisms as a whole. 
 
 The establishment of collaborative scientific endeavors like the [Human Cell Atlas](https://www.humancellatlas.org/) is a testament to the surging enthusiasm and curiosity in this domain. Yet, when we look towards Latin America, we find a gap in the necessary infrastructure, financial support, and subject matter expertise required to harness these cutting-edge technologies. Recognizing this, our workshop is designed to bridge this gap. We provide participants with hands-on experience in the laboratory and in-depth bioinformatics training, ensuring that the region advances in its capabilities with single-cell methodologies.
