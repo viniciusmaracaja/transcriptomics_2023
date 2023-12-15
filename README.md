@@ -1,7 +1,7 @@
 ## Studying Transcriptomic Complexity through Next-Generation Sequencing Data Analysis
 _Universidade Federal da Bahia & Instituto Gonçalo Moniz - Fiocruz Bahia_
 
-_Decembet 18-22, 2023 | Salvador, Bahia, Brazil_
+_December 18-22, 2023 | Salvador, Bahia, Brazil_
 
 
 ## Course Overview
