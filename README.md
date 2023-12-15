@@ -6,20 +6,22 @@ The establishment of collaborative scientific endeavors like the [Human Cell Atl
 
 [Workshop website](https://events.humancellatlas.org/2023LA)
 
+
 ## Instructors
 - [Dr. Guillermo Parada](https://scholar.google.com/citations?hl=es&user=PTLeXysAAAAJ), University of Toronto (Canadá).
 - [MSc. Juan Pablo Silva](https://scholar.google.com/citations?user=02dF20IAAAAJ), Universidad de Chile (Chile).
 - [Dr. Mónica Saldarriaga-Córdoba](https://scholar.google.com/citations?hl=es&user=nBBt_2UAAAAJ), Universidad Bernardo O’Higgins (Chile).
 - [Dr. Paulo P. Amaral](https://scholar.google.com/citations?hl=es&user=eKNlynIAAAAJ), INSPER (Brasil).
-- [Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM, Chile.
+- [Dr. Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM, Chile.
 - [Dr. Romain Guyot](https://scholar.google.com/citations?hl=es&user=1jAQU2wAAAAJ), IRD Montpellier (França).
 - [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile, Chile.
+
 
 ## Organizing Committee
 - [Dr. Ricardo Khouri](https://scholar.google.com/citations?hl=es&user=U-XypIYAAAAJ), Universidade Federal da Bahia & Instituto Gonçalo Moniz - Fiocruz Bahia (Brasil).
 - [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile, Chile.
 
-
+ 
 ## Hands-On Bioinformatics Training Material
 
 Below, you will find the links to the pre-course videos and Google Colab notebooks for the practical modules. 
@@ -57,6 +59,7 @@ In this notebook, main concepts and a general computational workflow will be cov
 - **Notebook 07 - TCR Profiling and CITE-Seq in Single-Cell Analysis [[TCR-Seq Colab](https://drive.google.com/file/d/1PasAxoxB1ECE7IUgZ3PtRUdQ35JSh1Zj/view?usp=sharing) | [CITE-Seq Colab](https://drive.google.com/file/d/1eUACF_4RlVw6rwoRXCfdEBdzPtzm2tgx/view?usp=sharing)]:**  _T cell receptor (TCR) profiling and Cellular Indexing of Transcriptomes and Epitopes by Sequencing (CITE-Seq) are pivotal techniques in single-cell research, offering unparalleled insights into the adaptive immune system and cellular heterogeneity. TCR profiling enables a deep dive into the repertoire and diversity of T cell populations, highlighting the specificity and uniqueness of T cell responses. On the other hand, CITE-Seq facilitates the concurrent assessment of transcriptomic data and protein expression within individual cells, creating a comprehensive portrayal of cellular states.
 In this module, participants will explore the profound implications of TCR profiling in understanding immune responses and the synergies it can achieve when coupled with CITE-Seq. We'll initiate with core concepts and theories, and swiftly transition into practical applications using advanced computational tools. Through this hands-on approach, attendees will master the nuances of TCR profiling and CITE-Seq, equipping them with valuable tools for their immunological and single-cell research pursuits._
 **Related Slides:** Soon....
+
 
 ### Authorship and Acknowledgments:
 
