@@ -1,4 +1,7 @@
 ## Studying Transcriptomic Complexity through Next-Generation Sequencing Data Analysis
+_Universidade Federal da Bahia & Instituto Gonçalo Moniz - Fiocruz Bahia_
+_Decembet 18-22, 2023 | Salvador, Bahia, Brazil_
+
 
 Single-cell sequencing technologies are powerful tools used to assess genomic, transcriptomic and proteomics information at the single-cell level. In recent years, the application of techniques that use single-cell sequencing have become increasingly common in several areas of research: including medicine, agriculture, and other life sciences disciplines. Single-cell sequencing may be used to study many aspects of an organism’s biology, both in health and disease, and the results of these studies contribute immensely to advancing the understanding of organisms as a whole. 
 
