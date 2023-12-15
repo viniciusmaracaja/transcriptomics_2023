@@ -8,7 +8,7 @@ The establishment of collaborative scientific endeavors like the [Human Cell Atl
 
 ## Instructors
 - [Dr. Guillermo Parada](https://scholar.google.com/citations?hl=es&user=PTLeXysAAAAJ), University of Toronto (Canadá).
-- [MSc. Juan Pablo Silva](https://www.researchgate.net/profile/Juan-Silva-36), Universidad de Chile (Chile).
+- [MSc. Juan Pablo Silva](https://scholar.google.com/citations?user=02dF20IAAAAJ), Universidad de Chile (Chile).
 - [Dr. Mónica Saldarriaga-Córdoba](https://scholar.google.com/citations?hl=es&user=nBBt_2UAAAAJ), Universidad Bernardo O’Higgins (Chile).
 - [Dr. Paulo P. Amaral](https://scholar.google.com/citations?hl=es&user=eKNlynIAAAAJ), INSPER (Brasil).
 - [Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM, Chile.
