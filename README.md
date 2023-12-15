@@ -15,6 +15,10 @@ The establishment of collaborative scientific endeavors like the [Human Cell Atl
 - [Dr. Romain Guyot](https://scholar.google.com/citations?hl=es&user=1jAQU2wAAAAJ), IRD Montpellier (França).
 - [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile, Chile.
 
+## Organizing Committee
+- [Dr. Ricardo Khouri](https://scholar.google.com/citations?hl=es&user=U-XypIYAAAAJ), Universidade Federal da Bahia & Instituto Gonçalo Moniz - Fiocruz Bahia (Brasil).
+- [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile, Chile.
+
 
 ## Hands-On Bioinformatics Training Material
 
