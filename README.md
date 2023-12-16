@@ -35,9 +35,9 @@ Below, you will find the links to the pre-course videos and Google Colab noteboo
 
 ### Pre-course Videos:
 
-- [ntroduction to R for Biologists:](https://melbournebioinformatics.github.io/r-intro-biologists/intro_r_biologists.html)
+- [Introduction to R for Biologists:](https://melbournebioinformatics.github.io/r-intro-biologists/intro_r_biologists.html)
 _This course has been designed to introduce biologists to R, showing some basics, and also some powerful things R can do (things that would be more difficult to do with Excel)._
-- [Linux for biologists workshop:](https://github.com/ssbcb/Linux-for-biologists-workshop/blob/main/Introduction-to-linux-101/Introduction-to-linux-101.md)
+- [Linux for Biologists Workshop:](https://github.com/ssbcb/Linux-for-biologists-workshop/blob/main/Introduction-to-linux-101/Introduction-to-linux-101.md)
 _This material covers the basics of shell scripting, a powerful tool for automating tasks and data processing in bioinformatics._
 - [Python for Biologists:](https://www.pythonforbiologists.org/)
 _This material provides a collection of episodes with videos, codes, and exercises for learning the basics of the Python programming language through genomics examples_
