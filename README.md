@@ -81,9 +81,9 @@ In this module, participants will explore the profound implications of TCR profi
 
 ### Authorship and Acknowledgments:
 
-This comprehensive material has been a result of collaborative efforts since 2021 and has been successfully employed in numerous courses organized by esteemed institutions like the Human Cell Atlas, LatinCells initiative, and Wellcome Connecting Sciences. We extend our heartfelt gratitude to all the individuals listed below, who have actively contributed to the development and refinement of this material over the years. Their dedication and expertise have been instrumental in making this resource valuable for the bioinformatics community.
+This comprehensive material has been a result of collaborative efforts since 2021 and has been successfully employed in numerous courses organized by the Advanced Center for Chronic Diseases - ACCDiS, Universidad de Chile and Universidad Tecnológica Metropolitana - UTEM. We extend our heartfelt gratitude to all the individuals listed below, who have actively contributed to the development and refinement of this material over the years. Their dedication and expertise have been instrumental in making this resource valuable for the bioinformatics community.
 
-We appreciate the continuous support and feedback from participants, mentors, and institutions that have made this endeavor possible. Together, we strive to advance the understanding and application of single-cell genomics in Latin America and the Caribbean.
+We appreciate the continuous support and feedback from participants, mentors, and institutions that have made this endeavor possible. Together, we strive to advance the understanding and application of data-driven biology in Latin America and the Caribbean.
 
 **List of Contributors - Listed Alphabetically:**
 
