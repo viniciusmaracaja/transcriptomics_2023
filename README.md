@@ -20,13 +20,13 @@ This comprehensive 5-day course was designed to provide participants with advanc
 
 
 ## Instructors
-- [Dr. Guillermo Parada](https://scholar.google.com/citations?hl=es&user=PTLeXysAAAAJ), University of Toronto (Canadá).
-- [MSc. Juan Pablo Silva](https://scholar.google.com/citations?user=02dF20IAAAAJ), Universidad de Chile (Chile).
+- [Dr. Guillermo Parada](https://scholar.google.com/citations?hl=es&user=PTLeXysAAAAJ), University of Toronto (Canada).
+- [MSc. & PhD(c) Juan Pablo Silva](https://scholar.google.com/citations?user=02dF20IAAAAJ), Universidad de Chile (Chile).
 - [Dr. Mónica Saldarriaga-Córdoba](https://scholar.google.com/citations?hl=es&user=nBBt_2UAAAAJ), Universidad Bernardo O’Higgins (Chile).
-- [Dr. Paulo P. Amaral](https://scholar.google.com/citations?hl=es&user=eKNlynIAAAAJ), INSPER (Brasil).
+- [Dr. Paulo P. Amaral](https://scholar.google.com/citations?hl=es&user=eKNlynIAAAAJ), INSPER (Brazil).
 - [Dr. Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM, Chile.
-- [Dr. Romain Guyot](https://scholar.google.com/citations?hl=es&user=1jAQU2wAAAAJ), IRD Montpellier (França).
-- [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile, Chile.
+- [Dr. Romain Guyot](https://scholar.google.com/citations?hl=es&user=1jAQU2wAAAAJ), IRD Montpellier (France).
+- [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile (Chile).
 
  
 ## Hands-On Bioinformatics Training Material
@@ -51,8 +51,8 @@ _Processing raw single-cell sequencing data (scRNA-seq) is a crucial step in the
 [**Lecture: Preprocessing**](https://github.com/viniciusmaracaja/HCA-LATAM_2023/blob/main/2023_10_23_HCA_LatinAmerica_preprocessing.pdf).
 
 - [Notebook 02 - Quality Control, Exploratory Analysis, Data Normalization, and Clustering in scRNA-seq experiments](https://colab.research.google.com/drive/17IGUqvipvqForM5_o3eDUfhZfQc2_Cux?usp=sharing):
-_In that part of the course, we will guide you through the initial steps of scRNA-seq data analysis, including data importing and organization, filtering, and preliminary visualization. These essential steps ensure quality and metadata information control over heterogeneous datasets before using the Seurat package and Bioconductor infrastructure. Once the data is imported, we will focus on assessing dataset quality through various metrics and visualizations, enabling the identification and removal of poor-quality cells. Furthermore, we'll delve into normalization techniques to address technical factors and clustering methods to group cells based on expression similarity, facilitating the interpretation of results and characterization of heterogeneity._
 [**Lecture: Quality Control**](https://github.com/viniciusmaracaja/HCA-LATAM_2023/blob/main/2023_10_23_HCA_LatinAmerica_qualitycontrol.pdf).
+_In that part of the course, we will guide you through the initial steps of scRNA-seq data analysis, including data importing and organization, filtering, and preliminary visualization. These essential steps ensure quality and metadata information control over heterogeneous datasets before using the Seurat package and Bioconductor infrastructure. Once the data is imported, we will focus on assessing dataset quality through various metrics and visualizations, enabling the identification and removal of poor-quality cells. Furthermore, we'll delve into normalization techniques to address technical factors and clustering methods to group cells based on expression similarity, facilitating the interpretation of results and characterization of heterogeneity._
 
 - [Notebook 03 - Differential expression, cell type annotation and functional data analysis](https://colab.research.google.com/drive/17IGUqvipvqForM5_o3eDUfhZfQc2_Cux?usp=sharing):
 _Identifying the set of features (genes/transcripts) that show distinct patterns of expression when comparing different conditions is an essential part of scRNA-seq analysis. This enables one to explore what processes might be involved in the differentiation between these circumstances. 
@@ -87,10 +87,11 @@ We appreciate the continuous support and feedback from participants, mentors, an
 
 **List of Contributors - Listed Alphabetically:**
 
-- **PhD(c) Allan Peñaloza-Otarola**, Universidad de Chile, Chile.
-- [Dr. Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM, Chile.
-- [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile, Chile.
-- [PhD(c) Wladimir Corrales](https://scholar.google.com/citations?hl=es&user=vt3Erm4AAAAJ), Universidad de Chile, Chile.
+- **PhD(c) Allan Peñaloza-Otarola**, Universidad de Chile (Chile).
+- [MSc. & PhD(c) Juan Pablo Silva](https://scholar.google.com/citations?user=02dF20IAAAAJ), Universidad de Chile (Chile).
+- [Dr. Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM (Chile).
+- [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile (Chile).
+- [PhD(c) Wladimir Corrales](https://scholar.google.com/citations?hl=es&user=vt3Erm4AAAAJ), Universidad de Chile (Chile).
     
 
 ******
