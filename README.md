@@ -6,11 +6,17 @@ _December 18-22, 2023 | Salvador, Bahia, Brazil_
 
 ## Course Overview
 
-Single-cell sequencing technologies are powerful tools used to assess genomic, transcriptomic and proteomics information at the single-cell level. In recent years, the application of techniques that use single-cell sequencing have become increasingly common in several areas of research: including medicine, agriculture, and other life sciences disciplines. Single-cell sequencing may be used to study many aspects of an organism’s biology, both in health and disease, and the results of these studies contribute immensely to advancing the understanding of organisms as a whole. 
+RNA sequencing technologies have evolved drastically since the publication of the first draft of the human genome in 2001. Over this period, new technologies have been developed, contributing to the characterization of the complexity of the transcriptomes of several communicable and non-communicable diseases, by allowing the study of the set of RNAs from these conditions in a comparative way with healthy tissues, or even through the characterization of the transcriptome of pathogens and disease vectors. 
 
-The establishment of collaborative scientific endeavors like the [Human Cell Atlas](https://www.humancellatlas.org/) is a testament to the surging enthusiasm and curiosity in this domain. Yet, when we look towards Latin America, we find a gap in the necessary infrastructure, financial support, and subject matter expertise required to harness these cutting-edge technologies. Recognizing this, our workshop is designed to bridge this gap. We provide participants with hands-on experience in the laboratory and in-depth bioinformatics training, ensuring that the region advances in its capabilities with single-cell methodologies.
+This comprehensive 5-day course was designed to provide participants with advanced knowledge and practical skills in transcriptomic data analysis. Led by experts in the field, the course covers a wide range of topics, including the complexity of eukaryotic transcriptomes, experimental methodologies for transcriptional analysis, de novo transcript reconstruction, functional annotation of transcripts, quantification of gene and transcript expression, differential expression analysis, analysis of transposable elements, computational analysis of non-coding RNAs, and splicing alternativo. Additionally, participants will be introduced to the emerging field of single-cell transcriptomics. The course combines theoretical sessions with hands-on practical exercises, ensuring that attendees gain a deep understanding of transcriptomic analysis techniques and their applications. It is a valuable opportunity for researchers and students seeking to enhance their expertise in the study of gene expression and transcriptomes using next-generation sequencing data.
 
-[Workshop website](https://events.humancellatlas.org/2023LA)
+
+[Workshop Google Classroom](https://events.humancellatlas.org/2023LA)
+
+
+## Scientific Organizing Committee
+- [Dr. Ricardo Khouri](https://scholar.google.com/citations?hl=es&user=U-XypIYAAAAJ), Universidade Federal da Bahia & Instituto Gonçalo Moniz - Fiocruz Bahia (Brasil).
+- [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile, Chile.
 
 
 ## Instructors
@@ -22,15 +28,21 @@ The establishment of collaborative scientific endeavors like the [Human Cell Atl
 - [Dr. Romain Guyot](https://scholar.google.com/citations?hl=es&user=1jAQU2wAAAAJ), IRD Montpellier (França).
 - [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile, Chile.
 
-
-## Organizing Committee
-- [Dr. Ricardo Khouri](https://scholar.google.com/citations?hl=es&user=U-XypIYAAAAJ), Universidade Federal da Bahia & Instituto Gonçalo Moniz - Fiocruz Bahia (Brasil).
-- [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile, Chile.
-
  
 ## Hands-On Bioinformatics Training Material
 
 Below, you will find the links to the pre-course videos and Google Colab notebooks for the practical modules. 
+
+
+### Pre-course Videos:
+
+- [Plotting in R for Biologists:](https://lms.wellcomeconnectingscience.org/course/view.php?id=106)
+_This material provides an introduction to the R programming language, which is extensively used in bioinformatics and will be crucial in all the modules implemented over the course._
+- [Introduction to Linux for Biologists:](https://lms.wellcomeconnectingscience.org/course/view.php?id=107)
+_This material covers the basics of shell scripting, a powerful tool for automating tasks and data processing in bioinformatics._
+- [Get started with Google Colaboratory:](https://www.youtube.com/watch?v=inN8seMm7UI)
+_This video provides a basic understanding of Google Colaboratory or Google Colab and their notebooks structure, which is the web-based interactive computing platform that we will be using along with our bioinformatics practical work._
+
 
 ### Practical Modules with Google Colab Notebooks:
 
