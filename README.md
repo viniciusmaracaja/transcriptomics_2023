@@ -87,10 +87,11 @@ We appreciate the continuous support and feedback from participants, mentors, an
 
 **List of Contributors - Listed Alphabetically:**
 
-- Allan Peñaloza-Otarola
-- Raúl Arias-Carrasco
-- Vinicius Maracaja-Coutinho
-- Wladimir Corrales
+- **PhD(c) Allan Peñaloza-Otarola**, Universidad de Chile, Chile.
+- [Dr. Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM, Chile.
+- [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile, Chile.
+- [PhD(c) Wladimir Corrales](https://scholar.google.com/citations?hl=es&user=vt3Erm4AAAAJ), Universidad de Chile, Chile.
+    
 
 ******
 ## License
