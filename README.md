@@ -8,10 +8,10 @@ _December 18-22, 2023 | Salvador, Bahia, Brazil_
 
 RNA sequencing technologies have evolved drastically since the publication of the first draft of the human genome in 2001. Over this period, new technologies have been developed, contributing to the characterization of the complexity of the transcriptomes of several communicable and non-communicable diseases, by allowing the study of the set of RNAs from these conditions in a comparative way with healthy tissues, or even through the characterization of the transcriptome of pathogens and disease vectors. 
 
-This comprehensive 5-day course was designed to provide participants with advanced knowledge and practical skills in transcriptomic data analysis. Led by experts in the field, the course covers a wide range of topics, including the complexity of eukaryotic transcriptomes, experimental methodologies for transcriptional analysis, de novo transcript reconstruction, functional annotation of transcripts, quantification of gene and transcript expression, differential expression analysis, analysis of transposable elements, computational analysis of non-coding RNAs, and splicing alternativo. Additionally, participants will be introduced to the emerging field of single-cell transcriptomics. The course combines theoretical sessions with hands-on practical exercises, ensuring that attendees gain a deep understanding of transcriptomic analysis techniques and their applications. It is a valuable opportunity for researchers and students seeking to enhance their expertise in the study of gene expression and transcriptomes using next-generation sequencing data.
+This comprehensive 5-day course was designed to provide participants with advanced knowledge and practical skills in transcriptomic data analysis. Led by experts in the field, the course covers a wide range of topics, including the complexity of eukaryotic transcriptomes, experimental methodologies for transcriptional analysis, de novo transcript reconstruction, functional annotation of transcripts, quantification of gene and transcript expression, differential expression analysis, analysis of transposable elements, computational analysis of non-coding RNAs, and alternative splicing. Additionally, participants will be introduced to the emerging field of single-cell transcriptomics. The course combines theoretical sessions with hands-on practical exercises, ensuring that attendees gain a deep understanding of transcriptomic analysis techniques and their applications. It is a valuable opportunity for researchers and students seeking to enhance their expertise in the study of gene expression and transcriptomes using next-generation sequencing data.
 
 
-[Workshop Google Classroom](https://events.humancellatlas.org/2023LA)
+[Workshop Google Classroom](link)
 
 
 ## Scientific Organizing Committee
@@ -20,13 +20,13 @@ This comprehensive 5-day course was designed to provide participants with advanc
 
 
 ## Instructors
-- [Dr. Guillermo Parada](https://scholar.google.com/citations?hl=es&user=PTLeXysAAAAJ), University of Toronto (Canada).
-- [MSc. & PhD(c) Juan Pablo Silva](https://scholar.google.com/citations?user=02dF20IAAAAJ), Universidad de Chile (Chile).
-- [Dr. Mónica Saldarriaga-Córdoba](https://scholar.google.com/citations?hl=es&user=nBBt_2UAAAAJ), Universidad Bernardo O’Higgins (Chile).
 - [Dr. Paulo P. Amaral](https://scholar.google.com/citations?hl=es&user=eKNlynIAAAAJ), INSPER (Brazil).
 - [Dr. Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM, Chile.
 - [Dr. Romain Guyot](https://scholar.google.com/citations?hl=es&user=1jAQU2wAAAAJ), IRD Montpellier (France).
 - [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile (Chile).
+- [Dr. Guillermo Parada](https://scholar.google.com/citations?hl=es&user=PTLeXysAAAAJ), University of Toronto (Canada).
+- [Dr. Mónica Saldarriaga-Córdoba](https://scholar.google.com/citations?hl=es&user=nBBt_2UAAAAJ), Universidad Bernardo O’Higgins (Chile).
+- [MSc. & PhD(c) Juan Pablo Silva](https://scholar.google.com/citations?user=02dF20IAAAAJ), Universidad de Chile (Chile).
 
  
 ## Hands-On Bioinformatics Training Material
@@ -36,10 +36,12 @@ Below, you will find the links to the pre-course videos and Google Colab noteboo
 
 ### Pre-course Videos:
 
-- [Plotting in R for Biologists:](https://lms.wellcomeconnectingscience.org/course/view.php?id=106)
-_This material provides an introduction to the R programming language, which is extensively used in bioinformatics and will be crucial in all the modules implemented over the course._
-- [Introduction to Linux for Biologists:](https://lms.wellcomeconnectingscience.org/course/view.php?id=107)
+- [ntroduction to R for Biologists:](https://melbournebioinformatics.github.io/r-intro-biologists/intro_r_biologists.html)
+_This course has been designed to introduce biologists to R, showing some basics, and also some powerful things R can do (things that would be more difficult to do with Excel)._
+- [Linux for biologists workshop:](https://github.com/ssbcb/Linux-for-biologists-workshop/blob/main/Introduction-to-linux-101/Introduction-to-linux-101.md)
 _This material covers the basics of shell scripting, a powerful tool for automating tasks and data processing in bioinformatics._
+- [Python for Biologists:](https://www.pythonforbiologists.org/)
+_This material provides a collection of episodes with videos, codes, and exercises for learning the basics of the Python programming language through genomics examples_
 - [Get started with Google Colaboratory:](https://www.youtube.com/watch?v=inN8seMm7UI)
 _This video provides a basic understanding of Google Colaboratory or Google Colab and their notebooks structure, which is the web-based interactive computing platform that we will be using along with our bioinformatics practical work._
 
@@ -88,10 +90,10 @@ We appreciate the continuous support and feedback from participants, mentors, an
 **List of Contributors - Listed Alphabetically:**
 
 - **PhD(c) Allan Peñaloza-Otarola**, Universidad de Chile (Chile).
-- [MSc. & PhD(c) Juan Pablo Silva](https://scholar.google.com/citations?user=02dF20IAAAAJ), Universidad de Chile (Chile).
 - [Dr. Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM (Chile).
-- [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile (Chile).
 - [PhD(c) Wladimir Corrales](https://scholar.google.com/citations?hl=es&user=vt3Erm4AAAAJ), Universidad de Chile (Chile).
+- [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile (Chile).
+- [MSc. & PhD(c) Juan Pablo Silva](https://scholar.google.com/citations?user=02dF20IAAAAJ), Universidad de Chile (Chile).
     
 
 ******
