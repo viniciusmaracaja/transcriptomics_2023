@@ -11,8 +11,6 @@ RNA sequencing technologies have evolved drastically since the publication of th
 This comprehensive 5-day course was designed to provide participants with advanced knowledge and practical skills in transcriptomic data analysis. Led by experts in the field, the course covers a wide range of topics, including the complexity of eukaryotic transcriptomes, experimental methodologies for transcriptional analysis, de novo transcript reconstruction, functional annotation of transcripts, quantification of gene and transcript expression, differential expression analysis, analysis of transposable elements, computational analysis of non-coding RNAs, and alternative splicing. Additionally, participants will be introduced to the emerging field of single-cell transcriptomics. The course combines theoretical sessions with hands-on practical exercises, ensuring that attendees gain a deep understanding of transcriptomic analysis techniques and their applications. It is a valuable opportunity for researchers and students seeking to enhance their expertise in the study of gene expression and transcriptomes using next-generation sequencing data.
 
 
-[Workshop Google Classroom](link)
-
 
 ## Scientific Organizing Committee
 - [Dr. Ricardo Khouri](https://scholar.google.com/citations?hl=es&user=U-XypIYAAAAJ), Universidade Federal da Bahia & Instituto Gonçalo Moniz - Fiocruz Bahia (Brasil).
