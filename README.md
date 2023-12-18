@@ -22,7 +22,6 @@ This comprehensive 5-day course was designed to provide participants with advanc
 - [Dr. Guillermo Parada](https://scholar.google.com/citations?hl=es&user=PTLeXysAAAAJ), University of Toronto (Canada).
 - [MSc. & PhD(c) Juan Pablo Silva](https://scholar.google.com/citations?user=02dF20IAAAAJ), Universidad de Chile (Chile).
 - [Dr. Mónica Saldarriaga-Córdoba](https://scholar.google.com/citations?hl=es&user=nBBt_2UAAAAJ), Universidad Bernardo O’Higgins (Chile).
-- [Dr. Paulo P. Amaral](https://scholar.google.com/citations?hl=es&user=eKNlynIAAAAJ), INSPER (Brazil).
 - [Dr. Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM (Chile).
 - [Dr. Romain Guyot](https://scholar.google.com/citations?hl=es&user=1jAQU2wAAAAJ), IRD Montpellier (France).
 - [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile (Chile).
@@ -49,7 +48,7 @@ _This video provides a basic understanding of Google Colaboratory or Google Cola
 
 - [Notebook 01 - Processing raw scRNA-seq data](https://colab.research.google.com/drive/1h0iurkpWVqQJki2JwinFEHrrieg7Wffj):
 _Soon_
-**Related Slides: _Soon...**_
+**Related Slides:** _Soon..._
 
 
 
