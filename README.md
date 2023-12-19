@@ -46,8 +46,8 @@ _This video provides a basic understanding of Google Colaboratory or Google Cola
 
 ### Practical Modules with Google Colab Notebooks:
 
-- [Notebook 01 - Processing raw scRNA-seq data](https://colab.research.google.com/drive/1h0iurkpWVqQJki2JwinFEHrrieg7Wffj):
-_Soon_
+- [Notebook 01 - Processing raw scRNA-seq data](https://colab.research.google.com/drive/1yqbTYG5Lpma0SMC-ExwANB7pAf_lZ_ZQ?usp=sharing):
+_This collaborative notebook guides researchers in evaluating RNA sequencing data quality. Through FastQC, MultiQC, and Fastp, it swiftly assesses data integrity, detects anomalies, and refines data for downstream analysis. Step-by-step instructions and code snippets enable users to efficiently apply these tools, ensuring robust data quality for diverse RNA sequencing experiments. Targeting researchers and bioinformaticians, this resource streamlines QC analysis and enhances data reliability, vital for accurate biological interpretations._
 **Related Slides:** _Soon..._
 
 
