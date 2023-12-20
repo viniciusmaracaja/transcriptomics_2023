@@ -52,6 +52,9 @@ _This collaborative notebook guides researchers in evaluating RNA sequencing dat
 - [Notebook 02 - De novo transcriptome reconstruction](https://colab.research.google.com/drive/17K_FpCnPJVN5JkRhlrYbJNdorwAC1wO2?usp=drive_link)
  _This Google Colab notebook serves as a comprehensive guide for de novo transcriptome reconstruction from RNA sequencing reads, showcasing the methodology using SOAPdenovo-Trans. While using a subset of sequencing reads from Phyllomedusa Bahiana as an example, this resource elucidates all the step necessary to reconstruct a transcriptome without relying on a reference genome._
 
+- [Notebook 03 - Transcriptome reconstruction based on reference genome](https://colab.research.google.com/drive/1dNTzWAAc6UlAXY-0JuwjNOdANCJ8TaNK?usp=drive_link)
+ _This Google Colab notebook acts as a comprehensive tutorial for transcriptome reconstruction based on a reference genome. It provides an in-depth exploration of the methodology, employing tools like Hisat2 for read mapping and samtools for data manipulation. Participants will gain hands-on experience in the entire process, from mapping sequencing reads to reconstructing transcripts using stringTie, and ultimately quantifying gene and transcript expression levels with featureCounts._
+
 
 ### Authorship and Acknowledgments:
 
