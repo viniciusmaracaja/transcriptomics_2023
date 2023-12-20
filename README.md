@@ -29,7 +29,7 @@ This comprehensive 5-day course was designed to provide participants with advanc
  
 ## Hands-On Bioinformatics Training Material
 
-Below, you will find the links to the pre-course videos and Google Colab notebooks for the practical modules. 
+Below, you will find the links to the pre-course videos and Google Colab notebooks for the practical modules. You can find the lectures slides at the Google Classroom dedicated for the course.
 
 
 ### Pre-course Videos:
@@ -48,11 +48,10 @@ _This video provides a basic understanding of Google Colaboratory or Google Cola
 
 - [Notebook 01 - Filtering raw RNA-seq data](https://colab.research.google.com/drive/1yqbTYG5Lpma0SMC-ExwANB7pAf_lZ_ZQ?usp=sharing):
 _This collaborative notebook guides researchers in evaluating RNA sequencing data quality. Through FastQC, MultiQC, and Fastp, it swiftly assesses data integrity, detects anomalies, and refines data for downstream analysis. Step-by-step instructions and code snippets enable users to efficiently apply these tools, ensuring robust data quality for diverse RNA sequencing experiments. Targeting researchers and bioinformaticians, this resource streamlines QC analysis and enhances data reliability, vital for accurate biological interpretations._
-**Related Slides:** _Soon..._
 
 - [Notebook 02 - De novo transcriptome reconstruction](https://colab.research.google.com/drive/17K_FpCnPJVN5JkRhlrYbJNdorwAC1wO2?usp=drive_link)
  _This Google Colab notebook serves as a comprehensive guide for de novo transcriptome reconstruction from RNA sequencing reads, showcasing the methodology using SOAPdenovo-Trans. While using a subset of sequencing reads from Phyllomedusa Bahiana as an example, this resource elucidates all the step necessary to reconstruct a transcriptome without relying on a reference genome._
-**Related Slides:** _Soon..._
+
 
 ### Authorship and Acknowledgments:
 
