@@ -55,13 +55,13 @@ _This collaborative notebook guides researchers in evaluating RNA sequencing dat
 - [Notebook 03 - Transcriptome reconstruction based on reference genome](https://colab.research.google.com/drive/1dNTzWAAc6UlAXY-0JuwjNOdANCJ8TaNK?usp=drive_link)
  _This Google Colab notebook acts as a comprehensive tutorial for transcriptome reconstruction based on a reference genome. It provides an in-depth exploration of the methodology, employing tools like Hisat2 for read mapping and samtools for data manipulation. Participants will gain hands-on experience in the entire process, from mapping sequencing reads to reconstructing transcripts using stringTie, and ultimately quantifying gene and transcript expression levels with featureCounts._
 
-- [Notebook 04 Funtional Annotation](https://colab.research.google.com/drive/1eRUSkEjx6JyirB89CTk7VPSlKBCRGxo8?usp=sharing) 
+- [Notebook 04 - Funtional Annotation](https://colab.research.google.com/drive/1eRUSkEjx6JyirB89CTk7VPSlKBCRGxo8?usp=sharing) 
 _This Google Colab notebook provides a detailed walkthrough for gene functional annotation utilizing the Diamond tool and orthologous group identification using OrthoFinder. Researchers can follow step-by-step instructions to annotate genes swiftly and establish orthologous relationships, crucial for evolutionary and functional genomics studies._
 
-- [Notebook 05 Differential expression analysis](https://colab.research.google.com/drive/171scE-KZrtYrBvQTUSHZaA0Jmd55iWlT?usp=sharing)
+- [Notebook 05 - Differential expression analysis](https://colab.research.google.com/drive/171scE-KZrtYrBvQTUSHZaA0Jmd55iWlT?usp=sharing)
 _This notebook focuses on conducting a differential expression analysis using the DESeq2 package. This comprehensive guide enables researchers to analyze RNA sequencing data effectively, identifying genes with significant expression changes across experimental conditions. Step-by-step instructions empower users to explore and interpret differential expression, aiding in the discovery of biologically meaningful insights._
 
-- [Notebook 06 Noncoding RNA annotation and miRNA sequencing analysis](https://colab.research.google.com/drive/11VuWxJNlybJKk2Fm5AUoaeR_UBji4HxG?usp=sharing)
+- [Notebook 06 - Noncoding RNA annotation and miRNA sequencing analysis](https://colab.research.google.com/drive/11VuWxJNlybJKk2Fm5AUoaeR_UBji4HxG?usp=sharing)
 _This Google Colab notebook offers a comprehensive guide for annotating non-coding RNAs (ncRNAs) using RNAmining and Infernal tools. Additionally, it provides a step-by-step procedure for small RNA sequencing data analysis, aiding in the identification of microRNAs (miRNAs). Tailored for researchers and bioinformaticians, this resource facilitates ncRNA annotation and miRNA discovery, crucial for understanding regulatory RNA functions and mechanisms._
 
 ### Authorship and Acknowledgments:
