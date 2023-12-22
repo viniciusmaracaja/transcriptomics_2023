@@ -63,6 +63,7 @@ _This notebook focuses on conducting a differential expression analysis using th
 
 - [Notebook 06 - Noncoding RNA annotation and miRNA sequencing analysis](https://colab.research.google.com/drive/11VuWxJNlybJKk2Fm5AUoaeR_UBji4HxG?usp=sharing)
 _This Google Colab notebook offers a comprehensive guide for annotating non-coding RNAs (ncRNAs) using RNAmining and Infernal tools. Additionally, it provides a step-by-step procedure for small RNA sequencing data analysis, aiding in the identification of microRNAs (miRNAs). Tailored for researchers and bioinformaticians, this resource facilitates ncRNA annotation and miRNA discovery, crucial for understanding regulatory RNA functions and mechanisms._
+**Google collab notebook with the answers to the differential expression analysis exercise:** [Notebook 06 - Answered](https://colab.research.google.com/drive/151EaxtINxnulFMbFGKaC3PJ-ABvRP5CS?usp=sharing)
 
 ### Authorship and Acknowledgments:
 
